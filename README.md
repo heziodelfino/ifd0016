@@ -4,7 +4,7 @@ Scripts em Python utilizados para a análise de constantes elásticas em configu
 
 ## Códigos incluídos
 
-- `casosM.py` — análise de diferentes montagens
+- `casosM.py` — análise e plot do gráfico no caso de diferentes montagens
 - `grafico3M.py` — gráficos de deformações em função da massa para 3 molas
 - `grafico3MSI.py` — versão acima no SI
 - `Incertezas3M.py` — cálculo das incertezas para as 3 molas
