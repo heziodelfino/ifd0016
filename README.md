@@ -11,6 +11,7 @@ Scripts em Python utilizados para a análise de constantes elásticas em configu
 - `IncertezasCasosM.py` — cálculo das incertezas para diferentes montagens
 - `KscasosM.py` — cálculo das constantes elásticas de diferentes montagens
 - `Ks3M.py` — cálculo das constantes elásticas no caso das 3 molas
+- `Forças_massa.py` - Gráfico 6
 
 ## Linguagem
 
