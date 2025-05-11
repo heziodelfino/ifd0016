@@ -17,3 +17,7 @@ Scripts em Python utilizados para a análise de constantes elásticas em configu
 
 - Python 3
 - Bibliotecas: NumPy, Matplotlib e scikit-learn
+
+#R2G5
+
+`graficos.py` - Gráfico 6 do R2G5
